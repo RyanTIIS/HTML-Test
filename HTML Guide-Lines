@@ -1,10 +1,11 @@
 <DOCTYPE html>
 <html>
-<head=style"backround-color:lightgray"><b>HTML Guide-lines</b></head>
+<head=style"backround-color:lightgray""color:blue"><b>HTML Guide-lines</b></head>
 
 
+<head style="backround-color:lightgray">HTML Guide-lines</head>
 
-
+<h1 style="color:gray" style="font-size:50%">This file is used to organize HTML notes</h1>
 
 
 
